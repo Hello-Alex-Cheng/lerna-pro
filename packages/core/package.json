@@ -18,6 +18,5 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from core\""
-  },
-  "dependencies": {}
+  }
 }
