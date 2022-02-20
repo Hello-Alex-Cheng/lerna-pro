@@ -1,0 +1,23 @@
+{
+  "name": "@lerna-study/core",
+  "version": "1.0.0",
+  "description": "core",
+  "author": "chenghaolun <chenghaolun@hualala.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from core\""
+  },
+  "dependencies": {}
+}
