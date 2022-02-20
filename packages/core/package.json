@@ -14,9 +14,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.yarnpkg.com/"
+    "registry": "http://localhost:4873/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from core\""
-  }
+  },
+  "gitHead": "73590800fb29132d7ae9fec1b73f70b3d28833f4"
 }
